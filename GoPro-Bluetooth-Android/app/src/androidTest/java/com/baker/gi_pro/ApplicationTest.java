@@ -1,4 +1,4 @@
-package com.example.guillaume.projet_gopro_bluetooth;
+package com.baker.gi_pro;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

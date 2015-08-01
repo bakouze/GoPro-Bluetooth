@@ -1,5 +1,4 @@
-package com.example.guillaume.projet_gopro_bluetooth;
-
+package com.baker.gi_pro;
 
 import android.app.ProgressDialog;
 import android.bluetooth.BluetoothAdapter;
@@ -22,7 +21,7 @@ import java.io.IOException;
 import java.util.UUID;
 
 
-public class goProControl extends ActionBarActivity implements View.OnTouchListener, View.OnClickListener {
+public class goProControl extends ActionBarActivity implements View.OnTouchListener, View.OnClickListener{
 
     //la position en tilt par défaut
     private long posTilt = 0;
@@ -227,7 +226,7 @@ public class goProControl extends ActionBarActivity implements View.OnTouchListe
     // fast way to call Toast
     private void msg(String s)
     {
-        Toast.makeText(getApplicationContext(),s, Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(), s, Toast.LENGTH_LONG).show();
     }
 
     private void Disconnect()

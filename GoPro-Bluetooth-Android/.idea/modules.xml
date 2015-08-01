@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Projet-GoPro-Bluetooth.iml" filepath="$PROJECT_DIR$/Projet-GoPro-Bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GI-Pro.iml" filepath="$PROJECT_DIR$/GI-Pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
